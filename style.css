@@ -2,9 +2,24 @@ html,
 body {
   margin: 0;
   padding: 0;
+  text-align: center;
+  background-color: skyblue;
 }
 
 h1 {
-  color: chartreuse;
+  color: #872343;
   text-align: center;
+}
+
+#questions {
+	color: #445398;
+	font-size: 
+}
+.score {
+	margin: 20px;
+	font-size: 30px 
+}
+
+.radioGrp {
+	font-size: 20px
 }
